@@ -116,6 +116,42 @@ MongoDB Atlas
 - Dark Mode
 - Priority Levels
 
+
+
+
+# Screenshots
+
+## Dashboard
+Application title: Task Tracker
+Task list displayed
+Add Task button
+Search bar
+Filter (All, Pending, Completed)
+<img width="1600" height="1188" alt="image" src="https://github.com/user-attachments/assets/442388ee-a693-45b4-b668-560d05282498" />
+
+## Add Task
+Title input
+Description textarea
+Status dropdown
+Due Date picker
+Save button
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/811d93af-3381-4bb9-909e-b6862327dadd" />
+
+
+## Edit Task
+Existing task details pre-filled
+Update button
+Cancel button
+<img width="1440" height="757" alt="image" src="https://github.com/user-attachments/assets/5d99ee2b-e60e-4e86-a3e0-cbbd73eb9171" />
+
+## Mobile View
+Task cards stacked vertically
+Mobile-friendly buttons
+Responsive navigation
+<img width="3880" height="2300" alt="image" src="https://github.com/user-attachments/assets/2550b1cc-b4fa-46cb-82b5-e82e15c3ad99" />
+
+<img width="800" height="957" alt="image" src="https://github.com/user-attachments/assets/59cdc730-08f9-4b50-8cbc-91908d88e156" />
+
 ## Author
 
 Archana Malluri
