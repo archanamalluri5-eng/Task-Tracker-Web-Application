@@ -148,7 +148,6 @@ Cancel button
 Task cards stacked vertically
 Mobile-friendly buttons
 Responsive navigation
-<img width="3880" height="2300" alt="image" src="https://github.com/user-attachments/assets/2550b1cc-b4fa-46cb-82b5-e82e15c3ad99" />
 
 <img width="800" height="957" alt="image" src="https://github.com/user-attachments/assets/59cdc730-08f9-4b50-8cbc-91908d88e156" />
 
