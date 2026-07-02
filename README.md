@@ -144,7 +144,7 @@ Update button
 Cancel button
 <img width="1440" height="757" alt="image" src="https://github.com/user-attachments/assets/5d99ee2b-e60e-4e86-a3e0-cbbd73eb9171" />
 
-## Mobile View
+## Responsive View
 Task cards stacked vertically
 Mobile-friendly buttons
 Responsive navigation
